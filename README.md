@@ -1,7 +1,7 @@
 # 🍰 Confeitaria da Lorenay
 
-Este projeto é um site desenvolvido para a *Confeitaria da Lorenay, criado com **HTML e CSS, seguindo fielmente o layout produzido no **Figma*.  
-O trabalho foi realizado *para a disciplina de Web 1, ministrada pelo professor Thomáz Maia*.
+Este projeto é um site desenvolvido para a *Confeitaria da Lorenay, criado com **HTML e CSS, seguindo fielmente o layout produzido no ****Figma****.  
+O trabalho foi realizado **para a disciplina de Web 1, ministrada pelo professor Thomáz Maia**.
 
 ---
 
@@ -66,11 +66,11 @@ Projeto desenvolvido por:
 
 ## 🚀 Como executar o projeto
 Você pode abrir o arquivo index.html diretamente no navegador  
-ou acessar via *GitHub Pages* :
+ou acessar via **GitHub Pages** :
 
 🔗 *Link do GitHub Pages:* [ https://naayxz.github.io/LORENAY-WEB1-FIGMA/]
 
 ## 📚 Licença
 
-Este projeto foi desenvolvido *para fins educacionais, na disciplina **Web 1 do professor Thomáz Maia*.  
+Este projeto foi desenvolvido **para fins educacionais, na disciplina **Web 1 do professor Thomáz Maia**.  
 Uso livre para estudo e referência.
