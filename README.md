@@ -68,7 +68,7 @@ Projeto desenvolvido por:
 Você pode abrir o arquivo index.html diretamente no navegador  
 ou acessar via *GitHub Pages* :
 
-🔗 *Link do GitHub Pages:* [https://naayxz.github.io/figma-LORENAY-web1/ ]
+🔗 *Link do GitHub Pages:* [ https://naayxz.github.io/LORENAY-WEB1-FIGMA/]
 
 ## 📚 Licença
 
