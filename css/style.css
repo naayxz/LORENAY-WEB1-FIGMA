@@ -1,0 +1,185 @@
+
+
+body {
+    margin: 0;
+    font-family: "Comic Sans MS", sans-serif;
+    background: #FCE4E4;
+}
+
+header {
+    background: #FCE4E4;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header h1 {
+    font-size: 30px;
+    color: #A34F4F;
+    font-weight: bold;
+}
+
+
+nav a {
+    background: #F3B7B7;
+    padding: 10px 25px;
+    border-radius: 30px;
+    margin-left: 10px;
+    color: #A34F4F;
+    font-size: 18px;
+    transition: .3s;
+}
+.produtos {
+    padding: 15px;
+    display: grid;
+    background-color: #E79A9A;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
+
+.item {
+    background: #FCE4E4;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.item img {
+    width: 70%;
+    border-radius: 10px;
+}
+
+.preco {
+    background: #F3B7B7;
+    color:#A34F4F;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.sobre {
+    background: #F3B7B7;
+    margin: 40px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.sobre h2 {
+    color:  #A34F4F;
+}
+
+section.contato {
+    display: flex;
+    padding: 40px;
+    background-color: #E79A9A;
+}
+
+.info {
+    width: 40%;
+}
+
+.bloco {
+    background: #FCE4E4;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.formulario {
+    width: 60%;
+    padding: 20px;
+    background:#FCE4E4;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario textarea {
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+.formulario input {
+    padding: 15px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+footer {
+    margin-top: 40px;
+    background: #FCE4E4;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer .icones img {
+    width: 35px;
+    margin-right: 10px;
+}
+
+footer input {
+    padding: 10px;
+    width: 200px;
+    border-radius: 20px;
+    border: none;
+    background:  #ffffff;
+}
+.botao-encomendar {
+    background: #A34F4F;
+    color:  #ffffff;
+    padding: 15px 40px;
+    font-size: 25px;
+    border-radius: 25px;
+    margin-top: 10px;
+}
+.imagem-produto img {
+    width: 420px;
+    border-radius: 10px;
+}
+.preco-box {
+    background:#FCE4E4;
+    padding: 10px 20px;
+    margin-top: 15px;
+    text-align: center;
+    width: fit-content;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.info-produto {
+    background: #ffffff;
+    padding: 30px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.info-produto h2 {
+    color: #5e2a2a;
+    margin-top: 0;
+}
+
+.info-produto p {
+    color: #5e2a2a;
+    font-size: 17px;
+}
+.produto-container {
+    display: flex;
+    padding: 40px 50px;
+    gap: 40px;
+    background-color: #E79A9A;
+}
+.item-detalhes {
+    background: #ffffff;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.item-detalhes img {
+    width: 100%;
+    border-radius: 10px;
+}
