@@ -1,6 +1,6 @@
 # 🍰 Confeitaria da Lorenay
 
-Este projeto é um site desenvolvido para a *Confeitaria da Lorenay, criado com **HTML e CSS, seguindo fielmente o layout produzido no ****Figma****.  
+Este projeto é um site desenvolvido para a Confeitaria da Lorenay, criado com **HTML e CSS**, seguindo fielmente o layout produzido no ***Figma***.  
 O trabalho foi realizado **para a disciplina de Web 1, ministrada pelo professor Thomáz Maia**.
 
 ---
