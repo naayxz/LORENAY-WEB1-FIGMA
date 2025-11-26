@@ -72,5 +72,5 @@ ou acessar via **GitHub Pages** :
 
 ## 📚 Licença
 
-Este projeto foi desenvolvido **para fins educacionais, na disciplina **Web 1 do professor Thomáz Maia**.  
+Este projeto foi desenvolvido para fins **educacionais**, na disciplina **Web 1 do professor Thomáz Maia**.  
 Uso livre para estudo e referência.
