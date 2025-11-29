@@ -71,8 +71,10 @@ Imagem do projeto HTML e CSS
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b76200b3-088c-4637-a314-0cdf1875ad68" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75b3a610-1895-4a8b-8984-4e198a454f1a" />
 
-3. → Página do produto.
-4. → Tela do formulário de contato.
+2. → Página do produto.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/46547865-aa8a-4124-80a1-390ea8bcacc0" />
+
+3. → Tela do formulário de contato.
 
 ## 📞 Contato
 
