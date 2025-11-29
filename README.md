@@ -68,8 +68,10 @@ Imagem do projeto no FIGMA
 
 Imagem do projeto HTML e CSS
 1. → Tela inicial.
-2. → Página do produto.
-3. → Tela do formulário de contato.
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b76200b3-088c-4637-a314-0cdf1875ad68" />
+
+3. → Página do produto.
+4. → Tela do formulário de contato.
 
 ## 📞 Contato
 
